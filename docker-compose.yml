@@ -1,0 +1,17 @@
+version: "3.7"
+services:
+
+  sql_server:
+    build:
+      context: ./sql-server
+    ports:
+      - 1433:1433
+    deploy:
+      replicas: 1
+      restart_policy:
+        condition: on-failure
+  rabbitmq:
+    image: rabbitmq:3.8.0-beta.3-management-alpine
+    ports:
+      - 5672:5672
+      - 15672:15672

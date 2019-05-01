@@ -1,0 +1,5 @@
+name
+description
+done boolean
+due date
+some way to balance who is responsible for it

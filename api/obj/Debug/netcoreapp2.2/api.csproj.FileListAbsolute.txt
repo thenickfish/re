@@ -1,0 +1,14 @@
+/home/nick/Downloads/html5up-landed/api/bin/Debug/netcoreapp2.2/api.deps.json
+/home/nick/Downloads/html5up-landed/api/bin/Debug/netcoreapp2.2/api.runtimeconfig.json
+/home/nick/Downloads/html5up-landed/api/bin/Debug/netcoreapp2.2/api.runtimeconfig.dev.json
+/home/nick/Downloads/html5up-landed/api/bin/Debug/netcoreapp2.2/api.dll
+/home/nick/Downloads/html5up-landed/api/bin/Debug/netcoreapp2.2/api.pdb
+/home/nick/Downloads/html5up-landed/api/obj/Debug/netcoreapp2.2/api.csprojAssemblyReference.cache
+/home/nick/Downloads/html5up-landed/api/obj/Debug/netcoreapp2.2/api.csproj.CoreCompileInputs.cache
+/home/nick/Downloads/html5up-landed/api/obj/Debug/netcoreapp2.2/api.RazorAssemblyInfo.cache
+/home/nick/Downloads/html5up-landed/api/obj/Debug/netcoreapp2.2/api.RazorAssemblyInfo.cs
+/home/nick/Downloads/html5up-landed/api/obj/Debug/netcoreapp2.2/api.AssemblyInfoInputs.cache
+/home/nick/Downloads/html5up-landed/api/obj/Debug/netcoreapp2.2/api.AssemblyInfo.cs
+/home/nick/Downloads/html5up-landed/api/obj/Debug/netcoreapp2.2/api.RazorTargetAssemblyInfo.cache
+/home/nick/Downloads/html5up-landed/api/obj/Debug/netcoreapp2.2/api.dll
+/home/nick/Downloads/html5up-landed/api/obj/Debug/netcoreapp2.2/api.pdb
